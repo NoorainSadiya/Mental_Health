@@ -1,0 +1,595 @@
+uid,phq9_total,label,survey_time,total_time,avg_time,unlocks,first_unlock,last_unlock,night_unlocks,total_app_launches,night,top_apps,most_used,most_used_count,app_entropy,app_usage_others_count,app_usage_system_count,app_usage_browser_count,app_usage_productivity_count,app_usage_media_count,app_usage_email_count,app_usage_social_count,app_usage_messaging_count
+u00,3,0,2013-06-01,3391.416666666666,169.5708333333333,20,0,23,7,4642,1520,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings                         449
+com.android.launcher                         415
+com.android.systemui                         379
+com.android.phone                            376
+com.android.contacts                         373
+com.google.android.gm                        373
+com.google.android.apps.paco                 349
+com.google.android.gallery3d                 278
+com.android.chrome                           257
+com.google.android.calendar                  244
+com.google.android.apps.genie.geniewidget    238
+com.skype.raider                             235
+com.google.android.deskclock                 193
+com.google.android.apps.maps                 183
+com.google.android.googlequicksearchbox      150
+com.jawbone.up                               101
+com.schwab.mobile                             15
+com.android.mms                               10
+org.bewellapp                                  8
+com.vmlite.vncserver                           8
+nl.syntaxa.caffeine                            8
+Name: count, dtype: int64",com.android.settings,449,3.9749549283639976,3154,794,257.0,437.0,0.0,0.0,0.0,0.0
+u01,4,0,2013-06-01,2339.7833333333338,167.12738095238097,14,1,23,4,1417,398,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       318
+com.google.android.apps.paco               254
+com.android.systemui                       244
+com.google.android.gallery3d               196
+com.droidhen.fortconquer                   135
+com.google.android.googlequicksearchbox    103
+com.ea.BejeweledBlitz_na                    94
+com.partyhopper.partyhopper                 33
+com.android.settings                        22
+com.jawbone.up                              18
+Name: count, dtype: int64",com.android.launcher,318,2.917425797321892,855,562,0.0,0.0,0.0,0.0,0.0,0.0
+u02,5,0,2013-06-01,2730.3999999999996,182.02666666666664,15,4,23,3,4895,1428,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                         498
+com.google.android.gm                        461
+com.android.mms                              436
+com.android.phone                            422
+com.google.android.apps.paco                 359
+com.android.settings                         330
+com.pandora.android                          313
+com.android.contacts                         295
+edu.dartmouth.cs.chownow                     251
+com.android.systemui                         240
+com.android.chrome                           207
+com.google.android.googlequicksearchbox      152
+com.google.android.deskclock                 146
+com.google.android.apps.genie.geniewidget    133
+com.google.android.calendar                  102
+com.android.vending                           97
+com.google.android.gallery3d                  92
+flipboard.app                                 79
+com.sometimeswefly.littlealchemy              70
+com.pinterest                                 66
+com.google.android.apps.docs                  56
+bn.ereader                                    27
+com.piazza.android                            27
+edu.dartmouth.cs.livedataprovider              9
+com.android.providers.downloads.ui             9
+edu.mit.media.funf.wifiscanner                 6
+com.dropbox.android                            5
+edu.dartmouth.cs.myruns                        3
+dartmouth.timely                               3
+com.android.packageinstaller                   1
+Name: count, dtype: int64",com.android.launcher,498,4.213972093826144,3696,738,207.0,248.0,6.0,0.0,0.0,0.0
+u03,2,0,2013-03-27,326.6666666666667,326.6666666666667,1,23,4,1,1681,400,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings              263
+com.android.launcher              206
+com.google.android.setupwizard    206
+com.google.android.gm             198
+com.android.mms                   198
+com.android.chrome                198
+com.android.vending               196
+com.google.android.apps.paco      185
+com.android.systemui               27
+edu.dartmouth.cs.helloworld         3
+org.bewellapp                       1
+Name: count, dtype: int64",com.android.settings,263,3.0816493274454495,1250,233,198.0,0.0,0.0,0.0,0.0,0.0
+u05,0,0,2013-06-01,971.1999999999999,194.23999999999998,5,5,21,3,1070,403,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                 189
+edu.dartmouth.cs.tractable           154
+com.google.android.apps.paco         141
+com.android.systemui                 128
+com.android.chrome                   128
+edu.mit.media.funf.wifiscanner        85
+org.bewellapp                         80
+com.android.settings                  67
+edu.dartmouth.cs.dinninginfo          33
+com.google.android.gm                 30
+edu.cs.dartmouth.myruns6              16
+com.titaniumjellyfish.studybuddy       8
+edu.dartmouth.cs.livedataprovider      5
+com.google.android.gallery3d           4
+com.android.packageinstaller           2
+Name: count, dtype: int64",com.android.launcher,189,3.308920757463119,540,317,128.0,0.0,85.0,0.0,0.0,0.0
+u09,2,0,2013-06-01,3676.033333333333,245.06888888888886,15,0,23,8,1616,492,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                419
+com.google.android.apps.paco        363
+com.android.settings                259
+edu.dartmouth.cs.wrongu.myruns5     169
+com.titaniumjellyfish.studybuddy    136
+com.android.systemui                 79
+com.steema.teechart.android          65
+com.google.android.gm                36
+edu.dartmouth.cs.chownow             35
+com.google.android.email             21
+edu.dartmouth.cs.happiness           18
+com.snrblabs.grooveip                10
+com.android.chrome                    3
+com.piazza.android                    2
+cs.dartmouth.edu.moodd                1
+Name: count, dtype: int64",com.android.launcher,419,2.9292016633278135,1094,498,3.0,0.0,0.0,21.0,0.0,0.0
+u10,4,0,2013-06-01,4670.633333333333,194.60972222222222,24,0,23,6,1865,564,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       446
+com.google.android.apps.paco               420
+com.android.settings                       242
+com.android.chrome                         207
+com.google.android.googlequicksearchbox    137
+com.google.android.gm                      137
+com.google.android.gallery3d               131
+jp.co.asbit.pvstar                          55
+com.google.android.deskclock                46
+edu.dartmouth.cs.happiness                  44
+Name: count, dtype: int64",com.android.launcher,446,2.9439872434598056,1166,446,207.0,46.0,0.0,0.0,0.0,0.0
+u14,3,0,2013-06-01,822.3000000000001,82.23,10,0,18,6,1355,456,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       243
+com.google.android.apps.paco               205
+com.android.systemui                       181
+com.android.chrome                         106
+com.partyhopper.partyhopper                105
+com.android.settings                       101
+com.soundcloud.android                      91
+com.instagram.android                       85
+com.path                                    85
+com.google.android.deskclock                58
+com.piazza.android                          50
+flipboard.app                               19
+com.facebook.katana                         13
+com.spotify.mobile.android.ui               11
+com.google.android.googlequicksearchbox      1
+com.google.android.apps.maps                 1
+Name: count, dtype: int64",com.android.launcher,243,3.452961808997707,669,424,106.0,58.0,0.0,0.0,98.0,0.0
+u15,1,0,2013-06-01,238.36666666666667,79.45555555555556,3,1,22,2,615,148,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       108
+cs.dartmouth.edu.moodd                     101
+com.google.android.apps.paco                85
+com.google.android.gm                       70
+edu.dartmouth.cs.layouts                    70
+com.google.android.apps.currents            64
+com.android.chrome                          24
+com.titaniumjellyfish.studybuddy            19
+com.android.systemui                        17
+com.google.android.gsf.login                17
+edu.dartmouth.cs.smartplan                  16
+edu.dartmouth.cs.chownow                    16
+com.google.android.googlequicksearchbox      4
+edu.dartmouth.cs.healthybody                 2
+com.biorhythmblues.atnow                     1
+edu.dartmouth.cs.happiness                   1
+Name: count, dtype: int64",com.android.launcher,108,3.3187051441177378,466,125,24.0,0.0,0.0,0.0,0.0,0.0
+u16,12,1,2013-06-01,3159.7166666666667,197.48229166666667,16,0,23,5,3576,1203,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       322
+com.rundouble.companion                    322
+com.android.settings                       322
+com.android.systemui                       271
+edu.dartmouth.cs.areagraph                 268
+edu.dartmouth.cs.chownow                   225
+com.moderati.zippo2                        198
+com.google.android.apps.paco               197
+com.google.android.googlequicksearchbox    184
+com.jawbone.up                             152
+edu.dartmouth.cs.myruns6lab                139
+com.piazza.android                         136
+com.bigduckgames.flowbridges               118
+com.ea.scrabblefree_na                     103
+org.achartengine.chartdemo.demo            101
+com.android.chrome                          89
+com.google.android.deskclock                81
+com.android.vending                         70
+edu.dartmouth.cs.layouts                    62
+com.facebook.katana                         61
+com.google.android.calendar                 34
+com.google.android.gm                       26
+edu.dartmouth.cs.myruns                     26
+com.google.android.gallery3d                25
+com.spotify.mobile.android.ui                9
+com.android.providers.downloads.ui           9
+com.adobe.reader                             9
+com.zynga.words                              5
+com.commonsware.books.android                4
+edu.dartmouth.cs.myruns5lab                  4
+edu.dartmouth.cs.marissaappenginetest        2
+com.android.calculator2                      2
+Name: count, dtype: int64",com.android.launcher,322,4.342377556696455,2718,593,89.0,115.0,0.0,0.0,61.0,0.0
+u17,18,1,2013-06-01,3136.283333333333,241.25256410256407,13,1,23,4,2093,590,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       503
+com.google.android.apps.paco               465
+cs.dartmouth.edu.moodd                     440
+com.google.android.deskclock               214
+com.android.chrome                         214
+edu.dartmouth.cs.happiness                 178
+com.google.android.googlequicksearchbox     60
+com.android.packageinstaller                19
+Name: count, dtype: int64",com.android.launcher,503,2.6331307350750963,1162,503,214.0,214.0,0.0,0.0,0.0,0.0
+u18,12,1,2013-06-01,2806.716666666667,233.8930555555556,12,0,22,6,1324,393,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                 144
+com.android.chrome                   135
+edu.dartmouth.cscollabsoup           134
+com.google.android.apps.paco         122
+edu.dartmouth.cs.livedataprovider    120
+com.androidemu.gba                   120
+com.google.android.videoeditor       120
+com.google.android.gallery3d         120
+edu.dartmouth.cs.whereami_5          110
+com.android.systemui                  56
+com.android.mms                       56
+com.google.android.gm                 52
+com.example.android.lifecycle         35
+Name: count, dtype: int64",com.android.launcher,144,3.5973688162242126,869,200,135.0,0.0,120.0,0.0,0.0,0.0
+u19,4,0,2013-06-01,4370.55,150.7086206896552,29,0,23,10,9465,2682,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings                       1377
+com.gogii.textplus                          582
+com.android.launcher                        490
+com.google.android.email                    489
+com.google.android.apps.paco                462
+com.android.chrome                          425
+com.google.android.talk                     376
+com.android.vending                         372
+com.google.android.gm                       368
+com.mojang.minecraftpe.demo                 363
+com.example.androidmapsv2                   363
+org.bewellapp                               363
+org.tiltfactor.POX                          363
+com.android.providers.downloads.ui          363
+com.google.android.googlequicksearchbox     356
+com.android.systemui                        329
+no.dirtybit.funrun                          322
+com.android.calculator2                     311
+com.google.android.gallery3d                311
+com.example.android.location                247
+com.westriversw.b1to50                      217
+com.titaniumjellyfish.studybuddy            180
+com.example.aptest                          168
+com.android.contacts                         91
+com.miniclip.plagueinc                       61
+com.rechild.advancedtaskkiller               32
+edu.dartmouth.cs.chownow                     23
+edu.dartmouth.cs.dinninginfo                 23
+com.android.mms                              20
+com.spryfox.tripletown                        9
+com.google.earth                              9
+Name: count, dtype: int64",com.android.settings,1377,4.4898228770434,7732,819,425.0,0.0,0.0,489.0,0.0,0.0
+u27,7,0,2013-06-01,2229.166666666667,202.65151515151518,11,0,23,2,3359,1024,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings                       507
+com.android.launcher                       488
+com.android.systemui                       408
+jp.gungho.padEN                            377
+com.google.android.apps.paco               303
+com.titaniumjellyfish.studybuddy           301
+com.google.android.gm                      225
+com.skype.raider                           162
+com.android.chrome                         132
+com.google.android.googlequicksearchbox    124
+com.dropbox.android                         99
+com.android.contacts                        75
+com.google.android.gallery3d                60
+com.example.bluetoothtest                   47
+com.android.vending                         19
+edu.dartmouth.cs.happiness                   9
+edu.dartmouth.cs.tractable                   7
+com.caloriecounter                           4
+edu.dartmouth.cs.myruns4                     3
+org.bewellapp                                3
+com.google.android.music                     3
+no.dirtybit.funrun                           1
+com.androidplot.demos                        1
+edu.dartmouth.cs.dinninginfo                 1
+Name: count, dtype: int64",com.android.settings,507,3.5910602196737824,2331,896,132.0,0.0,0.0,0.0,0.0,0.0
+u30,0,0,2013-06-01,5505.466666666668,239.36811594202905,23,2,22,8,3934,981,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       480
+com.biorhythmblues.atnow                   468
+com.google.android.apps.paco               454
+com.android.settings                       448
+com.android.systemui                       329
+com.google.android.googlequicksearchbox    253
+edu.dartmouth.cs.livedataprovider          227
+com.google.android.gallery3d               227
+com.example.androidmapsv2                  218
+edu.dartmouth.cs.asynctaskdemo             208
+edu.dartmouth.cs.tractable                 199
+com.android.chrome                         199
+com.google.android.gm                      191
+com.android.contacts                        21
+edu.dartmouth.cs.happiness                   6
+com.caloriecounter                           3
+com.android.vending                          3
+Name: count, dtype: int64",com.android.launcher,480,3.654364988126748,2926,809,199.0,0.0,0.0,0.0,0.0,0.0
+u31,5,0,2013-06-01,2273.7333333333336,151.58222222222224,15,2,18,5,1429,342,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings                       109
+com.android.launcher                        95
+com.google.android.gm                       91
+com.android.chrome                          91
+com.android.phone                           91
+com.kakao.talk                              84
+org.bewellapp                               82
+com.facebook.katana                         78
+com.android.systemui                        76
+com.android.mms                             73
+com.android.contacts                        61
+edu.dartmouth.cscollabsoup                  61
+com.google.android.youtube                  50
+com.google.android.deskclock                40
+com.alarmclock.xtreme.free                  40
+net.appositedesigns.fileexplorer            40
+com.google.android.gsf.login                32
+com.google.android.googlequicksearchbox     23
+com.google.android.apps.paco                21
+com.google.android.apps.maps                21
+com.google.android.gallery3d                21
+com.piazza.android                          21
+com.andrwq.recorder                         21
+doouky.lol                                  21
+com.google.android.music                    21
+com.infonow.bofa                            21
+kara300.mookjukido                          20
+com.rei.lolchatads                          11
+com.devuni.flashlight                        3
+com.weather.Weather                          3
+com.android.vending                          3
+edu.mit.media.funf.wifiscanner               2
+edu.dartmouth.cs.whereami                    2
+Name: count, dtype: int64",com.android.settings,109,4.600584655913084,957,171,91.0,80.0,52.0,0.0,78.0,0.0
+u35,7,0,2013-06-01,1248.4666666666667,208.07777777777778,6,2,21,1,1329,439,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       455
+com.google.android.apps.paco               294
+com.android.systemui                       230
+com.android.contacts                       130
+com.google.android.googlequicksearchbox     92
+com.example.caloriescounter                 61
+com.android.mms                             46
+com.caloriecounter                          18
+com.google.android.deskclock                 1
+com.example.marcosoft                        1
+com.google.android.videoeditor               1
+Name: count, dtype: int64",com.android.launcher,455,2.52309059627326,642,685,0.0,1.0,1.0,0.0,0.0,0.0
+u36,1,0,2013-06-01,5880.200000000001,178.18787878787882,33,0,23,14,3559,1112,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       492
+com.google.android.apps.paco               404
+com.myzaker.ZAKER_Phone                    363
+com.android.chrome                         363
+com.youdao.dict                            312
+com.rhmsoft.fm                             309
+com.android.settings                       301
+com.android.systemui                       202
+com.jawbone.up                             187
+com.google.android.googlequicksearchbox    164
+org.bewellapp                              147
+com.google.android.gallery3d               102
+com.android.mms                             99
+com.sohu.inputmethod.sogou                  93
+edu.mit.media.funf.wifiscanner              16
+com.ted.android                              4
+com.android.vending                          1
+Name: count, dtype: int64",com.android.launcher,492,3.668311838187437,2486,694,363.0,0.0,16.0,0.0,0.0,0.0
+u43,4,0,2013-06-01,2407.8,218.8909090909091,11,0,22,4,2878,818,"RUNNING_TASKS_topActivity_mPackage
+org.bewellapp                              370
+com.android.launcher                       343
+com.android.systemui                       337
+com.google.android.apps.paco               330
+com.google.android.gm                      329
+com.google.android.email                   279
+cs.dartmouth.edu.moodd                     249
+com.facebook.katana                        225
+com.android.chrome                         201
+com.android.settings                       116
+com.google.android.googlequicksearchbox     47
+edu.dartmouth.cs.databasedemo               31
+com.google.android.deskclock                11
+com.android.contacts                         7
+edu.dartmouth.cs.healthybody                 2
+com.titaniumjellyfish.studybuddy             1
+Name: count, dtype: int64",org.bewellapp,370,3.429172509985271,1482,680,201.0,11.0,0.0,279.0,225.0,0.0
+u44,2,0,2013-06-01,3157.833333333333,242.91025641025638,13,1,22,4,4112,1167,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                         412
+com.google.android.apps.paco                 378
+com.google.android.gm                        377
+com.google.android.apps.genie.geniewidget    338
+edu.dartmouth.cs.myruns5                     287
+edu.dartmouth.cs.whereami_5                  287
+com.rhmsoft.fm                               287
+com.google.android.gallery3d                 287
+com.android.chrome                           287
+edu.dartmouth.cs.dinninginfo                 287
+com.android.settings                         287
+org.bewellapp                                287
+com.android.providers.downloads.ui           287
+edu.dartmouth.cs.iaminyoureyes                24
+Name: count, dtype: int64",com.android.launcher,412,3.717350841364504,3413,412,287.0,0.0,0.0,0.0,0.0,0.0
+u45,2,0,2013-06-01,3822.1666666666665,224.83333333333331,17,0,23,7,1571,540,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher            281
+com.example.caloriescounter     193
+com.wandoujia.phoenix2          185
+com.google.android.apps.paco    183
+edu.dartmouth.cs.myruns5        175
+com.google.android.deskclock    136
+com.weico.sinaweibo             114
+com.android.chrome              110
+com.stt.android                 102
+edu.dartmouth.cs.layouts         43
+com.google.android.gallery3d     36
+com.testtabhost.activity         11
+com.caloriecounter                2
+Name: count, dtype: int64",com.android.launcher,281,3.327435375851873,1044,281,110.0,136.0,0.0,0.0,0.0,0.0
+u47,1,0,2013-06-01,3143.0,196.4375,16,0,21,3,2980,1030,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings                       745
+com.tencent.mobileqq                       466
+com.android.launcher                       354
+com.tencent.mm                             249
+com.chrome.beta                            232
+com.weico.sinaweibo                        208
+com.google.android.deskclock               173
+com.google.android.gm                      173
+com.google.android.apps.paco               169
+com.android.systemui                       139
+edu.dartmouth.cs.iaminyoureyes              25
+com.google.android.browser                  17
+com.skype.raider                             6
+com.aws.android.elite                        5
+com.google.android.talk                      5
+com.google.android.googlequicksearchbox      3
+com.android.mms                              3
+com.google.android.gallery3d                 2
+com.android.contacts                         2
+lysesoft.andexplorer                         2
+com.coolapk.market                           1
+android                                      1
+Name: count, dtype: int64",com.android.settings,745,3.2539729176682033,2065,493,249.0,173.0,0.0,0.0,0.0,0.0
+u49,8,0,2013-06-01,6091.750000000001,138.44886363636365,44,1,23,9,7826,2229,"RUNNING_TASKS_topActivity_mPackage
+com.android.settings                       929
+edu.dartmouth.cs.happiness                 735
+com.android.launcher                       504
+com.android.systemui                       494
+edu.mit.media.funf.wifiscanner             434
+com.lge.launcher2                          431
+com.android.chrome                         391
+com.google.android.gallery3d               378
+com.android.vending                        362
+com.google.android.googlequicksearchbox    321
+edu.dartmouth.cs.gcmdemo.android           300
+org.bewellapp                              300
+com.android.bluetooth                      293
+com.google.android.apps.paco               276
+com.android.mms                            275
+com.google.android.gm                      260
+com.android.phone                          220
+com.google.android.apps.plus               181
+edu.dartmouth.cscollabsoup                 130
+edu.dartmouth.cs.chownow                   115
+com.biorhythmblues.atnow                    87
+com.android.providers.downloads.ui          84
+com.android.contacts                        72
+dartmouth.timely                            48
+com.tmobile.vvm.application                 47
+com.partyhopper.partyhopper                 42
+edu.dartmouth.cs.dinninginfo                38
+edu.dartmouth.cs.healthybody                30
+com.facebook.katana                         14
+com.android.browser                         11
+com.lge.clock                               10
+com.lge.email                                7
+edu.dartmouth.cs.iaminyoureyes               2
+cs.dartmouth.edu.moodd                       2
+com.android.packageinstaller                 1
+com.sirma.mobile.bible.android               1
+android                                      1
+Name: count, dtype: int64",com.android.settings,929,4.438945402968635,5530,1429,402.0,10.0,434.0,7.0,14.0,0.0
+u51,0,0,2013-06-01,8123.666666666667,198.13821138211384,41,1,23,15,1599,451,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       504
+com.android.systemui                       266
+com.google.android.apps.paco               224
+com.accuweather.android                    175
+com.android.settings                       123
+edu.dartmouth.cs.dinninginfo                73
+com.android.chrome                          65
+com.imangi.templerun2                       41
+com.google.android.deskclock                35
+com.google.android.googlequicksearchbox     32
+edu.mit.media.funf.wifiscanner               8
+edu.dartmouth.cs.healthybody                 7
+dartmouth.timely                             6
+com.andrwq.recorder                          6
+com.android.mms                              6
+eu.chainfire.supersu                         5
+cs.dartmouth.edu.moodd                       4
+com.partyhopper.partyhopper                  3
+edu.dartmouth.cscollabsoup                   3
+edu.dartmouth.cs.chownow                     2
+edu.dartmouth.cs.happiness                   2
+edu.dartmouth.cs.smartplan                   2
+com.android.packageinstaller                 2
+edu.dartmouth.cs.tractable                   2
+edu.dartmouth.cs.iaminyoureyes               1
+com.biorhythmblues.atnow                     1
+com.android.contacts                         1
+Name: count, dtype: int64",com.android.launcher,504,3.0721044009570835,721,770,65.0,35.0,8.0,0.0,0.0,0.0
+u52,15,1,2013-06-01,4381.516666666666,182.56319444444443,24,0,23,13,1841,568,"RUNNING_TASKS_topActivity_mPackage
+com.motorola.blur.home                     427
+com.google.android.apps.paco               356
+com.android.chrome                         266
+org.bewellapp                              138
+com.android.phone                          138
+com.android.contacts                       138
+com.android.calculator2                    133
+com.google.android.googlequicksearchbox     71
+com.android.vending                         68
+com.facebook.katana                         56
+com.google.android.gm                       37
+edu.dartmouth.cs.chownow                     6
+com.android.deskclock                        4
+com.google.android.apps.googlevoice          3
+Name: count, dtype: int64",com.motorola.blur.home,427,3.1497398637143896,1088,427,266.0,4.0,0.0,0.0,56.0,0.0
+u53,11,1,2013-06-01,3561.8500000000004,273.9884615384616,13,2,23,2,4056,1047,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                         477
+com.google.android.deskclock                 474
+com.google.android.apps.paco                 456
+com.google.android.gm                        435
+com.google.android.apps.genie.geniewidget    411
+com.android.settings                         411
+com.android.mms                              410
+com.android.chrome                           165
+edu.dartmouth.cs.smartplan                   164
+com.melimots.WordSearch                      123
+com.google.android.talk                      123
+com.android.systemui                         123
+com.partyhopper.partyhopper                   99
+com.droidhen.fish                             65
+mobi.infolife.uninstaller                     65
+edu.dartmouth.cs.happiness                    55
+Name: count, dtype: int64",com.android.launcher,477,3.668504534381551,2817,600,165.0,474.0,0.0,0.0,0.0,0.0
+u56,3,0,2013-06-01,2361.8166666666666,295.2270833333333,8,3,21,1,1515,480,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       460
+com.google.android.apps.paco               456
+com.king.candycrushsaga                    264
+com.android.systemui                       105
+com.google.android.googlequicksearchbox    104
+com.android.settings                       104
+com.google.android.gallery3d                22
+Name: count, dtype: int64",com.android.launcher,460,2.368905333117899,950,565,0.0,0.0,0.0,0.0,0.0,0.0
+u58,8,0,2013-06-01,4378.8166666666675,218.9408333333334,20,0,23,8,469,146,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher            329
+com.google.android.apps.paco    139
+com.ksmaze.rehydration            1
+Name: count, dtype: int64",com.android.launcher,329,0.8977248956767118,140,329,0.0,0.0,0.0,0.0,0.0,0.0
+u59,7,0,2013-06-01,3024.433333333333,232.64871794871792,13,4,23,2,3270,1083,"RUNNING_TASKS_topActivity_mPackage
+com.android.launcher                       481
+com.android.mms                            367
+com.android.deskclock                      305
+com.android.settings                       260
+com.google.android.apps.paco               224
+org.bewellapp                              201
+com.android.chrome                         190
+com.android.systemui                       184
+com.android.phone                          152
+com.android.contacts                       151
+edu.dartmouth.cs.healthybody               105
+com.facebook.katana                         97
+com.zynga.scramble                          76
+com.android.vending                         76
+edu.dartmouth.cs.myruns6                    67
+com.bwx.bequick                             67
+com.android.calendar                        52
+com.google.android.googlequicksearchbox     37
+com.google.android.music                    29
+com.google.android.gm                       27
+com.google.android.gallery3d                23
+edu.dartmouth.cs.dinninginfo                18
+com.jawbone.up                              15
+com.google.android.apps.docs                10
+edu.dartmouth.cs.chownow                     9
+com.paranoid.preferences                     9
+com.google.android.youtube                   7
+com.s0up.goomanager                          7
+com.yahoo.mobile.client.android.mail         5
+com.google.android.apps.maps                 5
+com.twitter.android                          4
+com.titaniumjellyfish.studybuddy             3
+com.google.android.ears                      2
+com.caloriecounter                           2
+edu.dartmouth.cs.happiness                   1
+cs.dartmouth.edu.moodd                       1
+com.android.packageinstaller                 1
+Name: count, dtype: int64",com.android.launcher,481,4.154381309145504,1950,665,190.0,357.0,7.0,0.0,101.0,0.0
