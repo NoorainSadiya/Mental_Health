@@ -1,27 +1,46 @@
-📌 Problem Statement
-Predict early signs of depression in students using behavioral data like screen time, phone usage, and questionnaire responses.
+# 🧠 Mental Health Prediction from Smartphone Data
 
-🛠 Tools & Technologies
-Python, Scikit-learn
+## 🔍 Overview
+This project uses behavioral smartphone data to predict early signs of **depression** in students using machine learning. It focuses on model interpretability with **SHAP**, ensuring ethical and transparent decision-making.
 
-SHAP (SHapley Additive exPlanations)
+---
 
-Pandas, NumPy, Matplotlib
+## 📌 Problem Statement
+Can we detect early signs of **depression** based on smartphone usage patterns like screen time, unlock frequency, and app usage?
 
-StudentLife Dataset
+---
 
-📈 Approach
-Preprocessed app usage and phone activity logs.
+## 🛠 Tools & Technologies
+- Python  
+- Scikit-learn  
+- Pandas, NumPy, Matplotlib  
+- SHAP (SHapley Additive exPlanations)  
+- StudentLife Dataset
 
-Engineered behavioral features like unlock frequency and screen duration.
+---
 
-Trained a Random Forest classifier to predict depression risk.
+## 📈 Approach
+1. **Data Preparation**
+   - Extracted behavioral features from smartphone logs (e.g., screen usage, app duration).
+2. **Model Building**
+   - Trained a **Random Forest Classifier** to predict depression indicators.
+3. **Explainability**
+   - Applied SHAP to highlight key contributors like screen time and PHQ-9 history.
+4. **Evaluation**
+   - Used ROC AUC to measure performance.
 
-Used SHAP to interpret feature contributions at both global and individual levels.
+---
 
-✅ Results
-Achieved 1.0 ROC AUC, indicating a highly accurate model.
+## ✅ Results
+- Achieved **1.0 ROC AUC**
+- Top features: screen duration, PHQ-9 score, phone unlocks
+- Enhanced trust with SHAP summary and beeswarm plots
 
-Identified screen time and PHQ-9 history as top predictors of depression risk.
+---
 
-Visualized feature importance using SHAP summary and beeswarm plots.
+## 📂 Dataset
+- **StudentLife Dataset**: Behavioral data from Dartmouth College students
+  - Includes phone usage, sensor logs, PHQ-9, and daily surveys  
+  - More info: [StudentLife Dataset](https://studentlife.cs.dartmouth.edu/dataset.html)
+
+---
